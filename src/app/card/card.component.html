@@ -1,0 +1,9 @@
+
+<div class="card" style="width: 21rem;">
+    <img src="{{ cachorro.imagem }}" class="card-img-top" alt="...">
+    <div class="card-body">
+    <h5 class="card-title">{{ cachorro.nome | titlecase }}</h5>
+    <p class="card-text">{{ cachorro.descricao }}</p>
+    <a [routerLink]="['/cachorro', cachorro.id]" class="btn btn-outline-success">Veja Mais</a>
+    </div>
+</div>

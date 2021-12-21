@@ -1,0 +1,76 @@
+{
+    "cachorros": [
+        {
+            "id": 1,
+            "nome": "Igor",
+            "tipoCadastro": "adocao",
+            "tipo": "cachorro",
+            "descricao": "Foi adotado",
+            "imagem": "https://www.petz.com.br/blog/wp-content/uploads/2021/03/piercing-para-cachorro-2.jpg"
+        },
+        {
+            "id": 2,
+            "nome": "Nega",
+            "tipoCadastro": "encontrados",
+            "tipo": "gato",
+            "descricao": "Foi encontrado",
+            "imagem": "https://www.petz.com.br/blog/wp-content/uploads/2021/03/piercing-para-cachorro-2.jpg"
+        },
+        {
+            "id": 3,
+            "nome": "Mel",
+            "tipoCadastro": "perdidos",
+            "tipo": "cachorro",
+            "descricao": "Na procura",
+            "imagem": "https://www.petz.com.br/blog/wp-content/uploads/2021/03/piercing-para-cachorro-2.jpg"
+        },
+        {
+            "id": 4,
+            "nome": "biru biru",
+            "tipoCadastro": "encontrados",
+            "tipo": "ganco",
+            "descricao": "Foi encontrado",
+            "imagem": "https://www.petz.com.br/blog/wp-content/uploads/2021/03/piercing-para-cachorro-2.jpg"
+        },
+        {
+            "id": 5,
+            "nome": "joana",
+            "tipoCadastro": "encontrados",
+            "tipo": "galinha",
+            "descricao": "Foi encontrado",
+            "imagem": "https://www.petz.com.br/blog/wp-content/uploads/2021/03/piercing-para-cachorro-2.jpg"
+        },
+        {
+            "id": 6,
+            "nome": "joao",
+            "tipoCadastro": "encontrados",
+            "tipo": "galo",
+            "descricao": "Foi encontrado",
+            "imagem": "https://www.petz.com.br/blog/wp-content/uploads/2021/03/piercing-para-cachorro-2.jpg"
+        },
+        {
+            "id": 7,
+            "nome": "pirata",
+            "tipoCadastro": "perdidos",
+            "tipo": "cachorro",
+            "descricao": "Na procura",
+            "imagem": "https://www.petz.com.br/blog/wp-content/uploads/2021/03/piercing-para-cachorro-2.jpg"
+        },
+        {
+            "id": 8,
+            "nome": "Mousepad Microsoftg",
+            "tipoCadastro": "",
+            "tipo": "cachorro",
+            "descricao": "Foi adotado",
+            "imagem": "https://www.petz.com.br/blog/wp-content/uploads/2021/03/piercing-para-cachorro-2.jpg"
+        },
+        {
+            "id": 9,
+            "nome": "Go Pro 8",
+            "tipoCadastro": "",
+            "tipo": "cachorro",
+            "descricao": "Foi adotado",
+            "imagem": "https://www.petz.com.br/blog/wp-content/uploads/2021/03/piercing-para-cachorro-2.jpg"
+        }
+    ]
+}
